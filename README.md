@@ -1,2 +1,2 @@
 # conficts
-This is a sentence from muditha.  & This is from Alia
+This is a sentence from muditha.
